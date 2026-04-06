@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "ejemplo1"
+		},
+		{
+			"path": "../../Downloads/ejemplo-jquery/ejemplo-jquery"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ejemplo1"
+	}
+}
